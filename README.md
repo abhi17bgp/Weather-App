@@ -42,6 +42,7 @@ https://api.openweathermap.org/data/2.5/weather?q={city}&appid={your_api_key}&un
 ## 📁 File Structure
 
 weather-app/
+
 ├── index.html # Main HTML file
 
 ├── style.css # CSS for layout and styling
